@@ -28,9 +28,9 @@ def convert_laz_to_ply(input_laz, output_ply):
     else:
         print(f"Conversion completed in {end_time - start_time:.2f} seconds")
 
-# 示例输入和输出文件路径
+
 input_laz = r"C:\Users\wenru\Desktop\NEED\Pwllpriddog Oak-pc-poly\point_cloud.laz"
 output_ply = r"C:\Users\wenru\Desktop\NEED\Pwllpriddog Oak-pc-poly\point_cloud.ply"
 
-# 执行转换
+
 convert_laz_to_ply(input_laz, output_ply)
