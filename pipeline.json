@@ -1,0 +1,1 @@
+{"pipeline": [{"type": "readers.las", "filename": "C:\\Users\\wenru\\Desktop\\NEED\\Pwllpriddog Oak-pc-poly\\point_cloud.laz"}, {"type": "writers.ply", "filename": "C:\\Users\\wenru\\Desktop\\NEED\\Pwllpriddog Oak-pc-poly\\point_cloud.ply"}]}
